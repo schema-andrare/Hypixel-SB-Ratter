@@ -25,5 +25,3 @@ There are a few strategies to rat someone. The one I recommend is making a youtu
 
 
 I made about 10B in 2 weeks with this strat and mod. 
-
-https://www.youtube.com/watch?v=f-BGhAAms2A&t=1s
