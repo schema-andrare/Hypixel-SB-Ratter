@@ -15,6 +15,7 @@ There are a few strategies to rat someone. The one I recommend is making a youtu
  In the description you can add:
  - Download link
  - Discord tag
+ 
  Add tags like:
  - Hypixel
  - Minecraft
