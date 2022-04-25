@@ -8,5 +8,7 @@ Put the loginmod in your mods folder and the Hyp SB Ratter!
 
 /session (ssid) - Type this command and rejoin.
 
-I made about 10B in 2 weeks with this mod. https://www.youtube.com/watch?v=f-BGhAAms2A&t=1s. 
+I made about 10B in 2 weeks with this mod.  
 If you have any problems/questions message Eddiekungen#0111 on discord.
+
+https://www.youtube.com/watch?v=f-BGhAAms2A&t=1s
