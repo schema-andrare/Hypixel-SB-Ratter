@@ -5,7 +5,7 @@ This is a Hypixel skyblock ratter mod for 1.8.9 and it helps you with ratting pe
 Contact Eddiekungen#0111 on discord if you have any problems/questions.
 
 ## Commands
-Put the loginmod in your mods folder and the Hyp SB Ratter!
+Put the loginmod in your mods folder and the Hyp SB Ratter.
 /connect (Discord webhook) - This connects the rat with a your discord webhook. Remove the mod after and start ratting people with it.
 /session (ssid) - Type this command and rejoin.
 
