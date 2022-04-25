@@ -8,4 +8,4 @@ Put the loginmod in your mods folder and the Hyp SB Ratter!
 
 /session (ssid) - Type this command and rejoin.
 
-If you have any problems/questions message Eddiekungen#0111 on discord!
+If you have any problems/questions message Eddiekungen#0111 on discord.
