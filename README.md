@@ -6,6 +6,8 @@ If you have any problems/questions join this discord server https://discord.gg/T
 Or message Eddiekungen#0111 on discord!
 
 ## Commands
+Check latest release for the mods.
+
 Put the loginmod in your mods folder and the Hyp SB Ratter!
 - /connect (Discord webhook) - This connects the rat with a your discord webhook. Remove the mod after and start ratting people with it.
 - /session (ssid) - Type this command and rejoin.
